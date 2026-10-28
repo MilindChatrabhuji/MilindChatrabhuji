@@ -18,19 +18,32 @@
 
 ### 🛠️ Technical Competencies & Toolchain
 
-- **AI & Agent Orchestration**: Multi-Agent Workflows, Model Context Protocol (MCP), Tool-Use Evaluation Harnesses, PromptShield Security Benchmarks, RAG Pipelines.
-- **Backend & Systems Engineering**: Python 3.12, FastAPI, Asynchronous IO, Pydantic v2, REST APIs, Microservices, Background Task Queues.
-- **Data & Infrastructure**: PostgreSQL, SQLite, Redis, Docker, Containerized Deployments, GitHub Actions CI/CD, Linux.
-- **Automation & Integration**: Browser Automation (CDP/Puppeteer), Web Scraping, Headless CLI Architecture, Autonomous Platform Connectors.
+- **AI & Agent Orchestration**: Model Context Protocol (MCP), Autonomous Agent Pipelines, Deterministic Evaluation Harnesses, PromptShield Security Benchmarks, RAG Workflows.
+- **Backend & Systems Engineering**: Python 3.12, FastAPI, Clean Architecture & DDD, Asynchronous IO, Pydantic v2, Resilient Microservices, Token Bucket Rate Limiters.
+- **Data & Infrastructure**: PostgreSQL, SQLite, Redis, Docker Containerization, GitHub Actions CI/CD, Linux Server Environments.
+- **Automation & Tooling**: Headless Chrome DevTools Protocol (CDP), Secret Scanning Hooks, Document Converters, JSON Schema Inferrers.
 
 ---
 
-### 🚀 Featured Proof-of-Work
+### 🚀 Open-Source Projects & Public Utilities (10+ Ecosystem)
 
-#### 🛡️ [PromptShield Evaluation Benchmark](https://github.com/MilindChatrabhuji/promptshield-eval-benchmark)
-*Standardized AI Red-Teaming, Prompt Injection & Jailbreak Defense Evaluation Framework.*
-- Rigorous security evaluation harness verifying LLM agent guardrails against prompt injection and indirect system prompt leaks.
-- Zero external runtime baggage, self-contained evaluation datasets, and automated test runners.
+A curated collection of production-grade, zero-dependency developer tools and architectural blueprints built for the open-source community:
+
+#### 🤖 AI & Agentic Systems
+* **[mcp-agent-toolkit](https://github.com/MilindChatrabhuji/mcp-agent-toolkit)** — Modular Python Model Context Protocol (MCP) server & client toolkit with sandboxed filesystem, agent memory store, and JSON-RPC 2.0 dispatch.
+* **[promptshield-eval-benchmark](https://github.com/MilindChatrabhuji/promptshield-eval-benchmark)** — Standardized AI red-teaming, prompt injection, and jailbreak defense evaluation benchmark.
+* **[agent-eval-harness](https://github.com/MilindChatrabhuji/agent-eval-harness)** — Deterministic evaluation harness for agent tool-calling, schema adherence, and multi-step reasoning accuracy without paid LLM API judges.
+
+#### ⚡ Backend & Systems Resilience
+* **[fastapi-clean-architecture](https://github.com/MilindChatrabhuji/fastapi-clean-architecture)** — Production-ready FastAPI Clean Architecture & Domain-Driven Design (DDD) template with Pydantic v2 and async SQL repositories.
+* **[py-resilience](https://github.com/MilindChatrabhuji/py-resilience)** — Ultra-lightweight, zero-dependency Python resilience library: Circuit Breakers, Retries with Exponential Jitter, Fallbacks, and Bulkheads.
+* **[async-rate-limiter](https://github.com/MilindChatrabhuji/async-rate-limiter)** — High-throughput async rate limiting library implementing Token Bucket and Sliding Window Log algorithms for ASGI applications.
+
+#### 🔧 Developer Tools & Security
+* **[env-guard](https://github.com/MilindChatrabhuji/env-guard)** — Lightweight static security CLI and pre-commit hook that scans repositories for leaked API keys, tokens, and private keys.
+* **[json-schema-infer](https://github.com/MilindChatrabhuji/json-schema-infer)** — Zero-dependency tool to infer JSON Schemas, auto-generate Pydantic v2 models, and generate TypeScript interfaces from raw JSON.
+* **[doc-to-markdown-cli](https://github.com/MilindChatrabhuji/doc-to-markdown-cli)** — Fast document and HTML to clean, token-optimized LLM-ready markdown converter.
+* **[headless-browser-scout](https://github.com/MilindChatrabhuji/headless-browser-scout)** — Lightweight Python Chrome DevTools Protocol (CDP) client for stealth web scraping and clean DOM extraction.
 
 ---
 
