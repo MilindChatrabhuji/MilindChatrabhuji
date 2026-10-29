@@ -12,9 +12,20 @@
   <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
+
+[![NexusPulse EdgeSaaS](https://raw.githubusercontent.com/MilindChatrabhuji/Earning-Machine/main/distribution/digital_assets/edgesaas-banner-readme.svg)](https://edgesaas.nexus-pulse.com)
 </div>
 
 ---
+
+
+---
+
+### ⚡ Featured Product: NexusPulse EdgeSaaS
+> **Production Micro-SaaS Boilerplate for Cloudflare Workers**  
+> Ship zero-cold-start, high-margin micro-SaaS on the global edge in 15 minutes with **.00/month idle cost**.  
+> Pre-wired with **Hono v4.6**, **Stripe Checkout & Billing Portal**, **Web Crypto Auth**, and **Workers KV Rate Limiting**.  
+> 🔗 **[Get Instant Access & Deploy](https://edgesaas.nexus-pulse.com)** | [View Architecture](https://github.com/MilindChatrabhuji/Earning-Machine/blob/main/content/marketing/edgesaas_developer_launch_kit.md)
 
 ### 🛠️ Technical Competencies & Toolchain
 
