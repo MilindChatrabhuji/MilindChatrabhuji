@@ -12,20 +12,35 @@
   <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
-
-[![NexusPulse EdgeSaaS](https://raw.githubusercontent.com/MilindChatrabhuji/edgesaas-starter-kit/main/distribution/digital_assets/edgesaas-banner-readme.svg)](https://edgesaas.nexus-pulse.com)
+<a href="https://edgesaas.nexus-pulse.com">
+  <img src="https://raw.githubusercontent.com/MilindChatrabhuji/MilindChatrabhuji/main/assets/edgesaas-banner-readme.svg" alt="NexusPulse EdgeSaaS" width="100%" />
+</a>
 </div>
-
----
-
 
 ---
 
 ### ⚡ Featured Product: NexusPulse EdgeSaaS
 > **Production Micro-SaaS Boilerplate for Cloudflare Workers**  
-> Ship zero-cold-start, high-margin micro-SaaS on the global edge in 15 minutes with **.00/month idle cost**.  
+> Ship zero-cold-start, high-margin micro-SaaS on the global edge in 15 minutes with **$0.00/month idle cost**.  
 > Pre-wired with **Hono v4.6**, **Stripe Checkout & Billing Portal**, **Web Crypto Auth**, and **Workers KV Rate Limiting**.  
 > 🔗 **[Get Instant Access & Deploy](https://edgesaas.nexus-pulse.com)** | [View Architecture](https://github.com/MilindChatrabhuji/edgesaas-starter-kit/blob/main/content/marketing/edgesaas_developer_launch_kit.md)
+
+---
+
+### 🏛️ Upstream Open-Source Contributions & Systems Engineering
+
+Actively contributing surgical, zero-regression bug fixes, async concurrency patches, and architectural resilience improvements to top-tier Python & AI libraries:
+
+| Upstream Ecosystem | Component & Focus | Contribution & PR |
+| :--- | :--- | :--- |
+| **[BerriAI/litellm](https://github.com/BerriAI/litellm)** | AI Gateway & LLM Proxy | • [PR #54310](https://github.com/BerriAI/litellm/pull/54310): Bedrock Converse Request-Scoped Tool Mappings & TTL Cache Fix<br>• [PR #54312](https://github.com/BerriAI/litellm/pull/54312): Async OIDC In-Flight Retry Race Condition Resolution<br>• [PR #54189](https://github.com/BerriAI/litellm/pull/54189): 422 Unprocessable Entity Mixed Detail Robustness<br>• [PR #54186](https://github.com/BerriAI/litellm/pull/54186): Async HTTP Multipart File Stream Rewind on Retry<br>• [PR #54168](https://github.com/BerriAI/litellm/pull/54168): Team Member Key Management Permissions Alignment<br>• [PR #54127](https://github.com/BerriAI/litellm/pull/54127): Anthropic Messages Empty Content Response Handling |
+| **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** | LLM Application Framework | • [PR #42063](https://github.com/langchain-ai/langchain/pull/42063): HTMLHeaderTextSplitter Text Ordering & Inline Tag Preservation<br>• [PR #42061](https://github.com/langchain-ai/langchain/pull/42061): MarkdownListOutputParser Empty Bullet Parsing Fix |
+| **[modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)** | Anthropic MCP Standard | • [PR #3906](https://github.com/modelcontextprotocol/python-sdk/pull/3906): Stdio Server JSON-RPC Parse Error Response Guard |
+| **[scrapy/scrapy](https://github.com/scrapy/scrapy)** | Distributed Web Crawling | • [PR #8531](https://github.com/scrapy/scrapy/pull/8531): Sitemap Parser Empty Body StopIteration Fix<br>• [PR #30](https://github.com/scrapy-plugins/scrapy-spider-metadata/pull/30): Pydantic v2 Serialization Deprecation (**Merged**) |
+| **[Thinkmill/keystatic](https://github.com/Thinkmill/keystatic)** | Next-Gen Headless CMS | • [PR #1646](https://github.com/Thinkmill/keystatic/pull/1646): Dutch Localization & Git Terminology Alignment (**Merged**) |
+| **[mozarkai/optics-framework](https://github.com/mozarkai/optics-framework)** | Observability Framework | • [PR #660](https://github.com/mozarkai/optics-framework/pull/660): Pydantic v1 to v2 Config Migration (**Merged**) |
+
+---
 
 ### 🛠️ Technical Competencies & Toolchain
 
