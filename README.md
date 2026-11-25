@@ -29,7 +29,8 @@
 
 ### 🏛️ Upstream Open-Source Contributions & Systems Engineering
 
-Actively contributing surgical, zero-regression bug fixes, async concurrency patches, and architectural resilience improvements to top-tier Python & AI libraries:
+> 🎯 **Open-Source Milestone Target:** 100+ Merged Pull Requests across Global Tier-1 Repositories.  
+> Actively contributing surgical, zero-regression bug fixes, async concurrency patches, and architectural resilience improvements to top-tier Python & AI libraries:
 
 | Upstream Ecosystem | Component & Focus | Contribution & PR |
 | :--- | :--- | :--- |
@@ -43,6 +44,18 @@ Actively contributing surgical, zero-regression bug fixes, async concurrency pat
 ---
 
 ### 🛠️ Technical Competencies & Toolchain
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Anthropic%20MCP-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+</p>
 
 - **AI & Agent Orchestration**: Model Context Protocol (MCP), Autonomous Agent Pipelines, Deterministic Evaluation Harnesses, PromptShield Security Benchmarks, RAG Workflows.
 - **Backend & Systems Engineering**: Python 3.12, FastAPI, Clean Architecture & DDD, Asynchronous IO, Pydantic v2, Resilient Microservices, Token Bucket Rate Limiters.
@@ -77,7 +90,8 @@ A curated collection of production-grade, zero-dependency developer tools and ar
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MilindChatrabhuji&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Milind's GitHub Stats" />
-  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilindChatrabhuji&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilindChatrabhuji&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
